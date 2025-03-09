@@ -1,0 +1,13 @@
+(librepcb_library f13321d1-4698-447a-9833-f06e5f333448
+ (name "My Pretty Library")
+ (description "")
+ (keywords "")
+ (author "Artem Paraev")
+ (version "0.2")
+ (created 2025-03-04T17:55:21Z)
+ (deprecated false)
+ (url "")
+ (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+ (manufacturer "")
+)

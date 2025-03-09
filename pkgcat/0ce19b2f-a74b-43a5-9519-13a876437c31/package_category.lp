@@ -1,0 +1,10 @@
+(librepcb_package_category 0ce19b2f-a74b-43a5-9519-13a876437c31
+ (name "Display Graphics")
+ (description "")
+ (keywords "")
+ (author "A. Paraev")
+ (version "0.1")
+ (created 2025-03-05T17:28:24Z)
+ (deprecated false)
+ (parent none)
+)

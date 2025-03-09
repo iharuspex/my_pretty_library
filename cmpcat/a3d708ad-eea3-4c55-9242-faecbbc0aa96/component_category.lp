@@ -1,0 +1,10 @@
+(librepcb_component_category a3d708ad-eea3-4c55-9242-faecbbc0aa96
+ (name "Display")
+ (description "")
+ (keywords "")
+ (author "A. Paraev")
+ (version "0.1")
+ (created 2025-03-08T16:50:43Z)
+ (deprecated false)
+ (parent none)
+)

@@ -1,0 +1,10 @@
+(librepcb_package_category 74b7a33c-4c04-4a0d-8ffd-8179a8d727cd
+ (name "FFC-FPC")
+ (description "")
+ (keywords "")
+ (author "A. Paraev")
+ (version "0.1")
+ (created 2025-03-05T17:16:06Z)
+ (deprecated false)
+ (parent 56a5773f-eeb4-4b39-8cb9-274f3da26f4f)
+)
