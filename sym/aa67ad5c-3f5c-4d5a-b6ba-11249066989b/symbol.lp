@@ -1,0 +1,11 @@
+(librepcb_symbol aa67ad5c-3f5c-4d5a-b6ba-11249066989b
+ (name "PY32F030K1xT")
+ (description "")
+ (keywords "")
+ (author "A. Paraev")
+ (version "0.1")
+ (created 2025-05-07T06:18:33Z)
+ (deprecated false)
+ (generated_by "")
+ (category 22151601-c2d9-419a-87bc-266f9c7c3459)
+)
